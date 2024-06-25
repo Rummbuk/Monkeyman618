@@ -5,7 +5,7 @@
             "type": "lua",
             "request": "launch",
             "name": "Launch",
-            "program": "${workspaceFolder}/BodyGaurd.lua",
+            "program": "${workspaceFolder}/BodyGaurdcleric.lua",
             "cwd": "${workspaceFolder:BodyGaurdcleric}"
         }
     ]
