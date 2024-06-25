@@ -6,7 +6,7 @@
             "request": "launch",
             "name": "Launch",
             "program": "${workspaceFolder}/BodyGaurdcleric.lua",
-            "cwd": "${workspaceFolder:BodyGaurdcleric}"
+            "cwd": "${workspaceFolder:Monkeyman618}"
         }
     ]
 }
